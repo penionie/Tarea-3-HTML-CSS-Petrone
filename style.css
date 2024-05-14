@@ -15,6 +15,12 @@
 .cuadrito:hover{
 color: rgb(243, 0, 0);
 }
+.c2{
+    list-style: none;
+}
+.c3{
+    list-style: none;
+}
 .c2:hover{
     color: rgb(240, 0, 0);
 }
