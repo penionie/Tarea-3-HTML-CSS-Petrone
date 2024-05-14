@@ -1,0 +1,30 @@
+.imagen{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    height: 200px;
+}
+.pepe{
+    background-color: #7c6161;
+    padding: 50px;
+    width: 100%;
+    
+}
+.cuadrito:hover{
+color: rgb(243, 0, 0);
+}
+.c2:hover{
+    color: rgb(240, 0, 0);
+}
+    .c3:hover{
+    color: rgb(240, 0, 0);  
+}
+.text{
+    color: #000000;
+}
+ body {
+    background-image: url(escritorio/fondo.JPEG);
+}
+    
